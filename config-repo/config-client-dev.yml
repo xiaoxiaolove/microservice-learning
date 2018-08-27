@@ -1,1 +1,4 @@
+server:
+  port: 9401
+
 foo: foo from git repository by config-server
