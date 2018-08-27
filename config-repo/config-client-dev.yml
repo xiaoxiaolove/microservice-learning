@@ -1,4 +1,5 @@
 server:
   port: 9401
 
-foo: foo from git repository by config-server
+#foo: foo from git repository by config-server
+foo: foo version 1 from git repository by config-server
